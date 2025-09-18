@@ -12,5 +12,7 @@
         <p>Hope you will enjoy your time spent on this web :)</p>
 
         <p style="color: darkgreen">Great to see you here!</p>
+
+        <p>Wait for my portfolio to see... It is coming soon...</p>
     </body>
 </html>
