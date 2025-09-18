@@ -10,5 +10,7 @@
         <h1>Welcome to Codetime</h1>
 
         <p>Hope you will enjoy your time spent on this web :)</p>
+
+        <p style="color: darkgreen">Great to see you here!</p>
     </body>
 </html>
